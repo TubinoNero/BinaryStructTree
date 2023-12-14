@@ -1,7 +1,9 @@
 # BinaryStructTree
 
 This is my 2020 college assignment for a subject called "Algorithms and Data Structures".
+
 The project allows a user to create and serialize a basic family tree using the CLI. This tree is a binary tree, but unlike the examples of a standard binary tree shown on the internet, this tree is capable of storing entire structures (people in this case), not just numbers. It can serialize the data in **a human-readable text format** as well.
+
 I thought it might be useful for other computer science students, because it's quite unique and it's hard to find anything like this on the internet. Compile at your own risk, as the program has not been tested since 2020. This is the type of content that is surely educational, but hardly fun - just like my college years.
 
 ## User features
