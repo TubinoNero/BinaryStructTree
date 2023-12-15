@@ -1,4 +1,4 @@
-# BinaryStructTree
+# 🌳🪪 BinaryStructTree
 
 This is my 2020 college assignment for a subject called "Algorithms and Data Structures".
 
@@ -6,7 +6,7 @@ The project allows a user to create and serialize a basic family tree using the 
 
 I thought it might be useful for other computer science students, because it's quite unique and it's hard to find anything like this on the internet. Compile at your own risk, as the program has not been tested since 2020. This is the type of content that is surely educational, but hardly fun - just like my college years.
 
-## User features
+## 🙍 User features
 
 - Print the whole family tree (obviously)
 
@@ -24,7 +24,7 @@ I thought it might be useful for other computer science students, because it's q
 
 - Delete the whole tree
 
-## Features of the code
+## 🧮 Features of the code
 
 - Stores C++ structs in a binary tree
 
@@ -38,6 +38,12 @@ I thought it might be useful for other computer science students, because it's q
 
 - Uses destructors, so you can sleep relatively safely knowing that you have the ability to create a very large number of binary trees in one run without running out of memory
 
-- Shows that at the 2020, I had little knowledge of object-oriented programming - the code still looks much more readable than the average Java programmer's work despite the lack of comments
+- Shows that at the 2020, I had little knowledge of object-oriented programming - ~~the code still looks much more readable than the average Java programmer's work despite the lack of comments~~
 
 - BARELY ANY EXCEPTIONS IN THE CODE! If something goes unplanned, well... Have fun!
+
+## 📋 TO-DO
+
+- Add some comments to the code to make it readable to any other human beings
+
+- Compile it for Linux and Windows
